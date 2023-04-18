@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Books>
+    <book id="1">
+        <name>Book Title</name>
+        <Language>Language</Language>
+        <isbn>ISBN No.</isbn>
+        <author>Author Name</author>
+        <publisher>Publisher</publisher>
+        <yop>Year of Publishing</yop>
+    </book>
+    <book id="2">
+        <name>A Valentine for Percy</name>
+        <Language>English</Language>
+        <isbn>9781101932872</isbn>
+        <author>Richard Courtney and Reverend W. Awdry</author>
+        <publisher>Random House Books for Young Readers</publisher>
+        <yop>2015</yop>
+    </book>
+    <book id="3">
+        <name>WINNIE Y EL DRAG©أN DE MEDIANOCHE</name>
+        <Language>Spanish</Language>
+        <isbn>9788449434006</isbn>
+        <author>Valérie Thomas</author>
+        <publisher>-</publisher>
+        <yop>1999</yop>
+    </book>
+    <book id="4">
+        <name>Cell A Novel</name>
+        <Language>English/French/Chinese</Language>
+        <isbn>9780743292337</isbn>
+        <author>Stephen King</author>
+        <publisher>Scribner</publisher>
+        <yop>2006</yop>
+    </book>
+    <book id="5">
+        <name>Cell</name>
+        <Language>English</Language>
+        <isbn>9780786285686</isbn>
+        <author>Stephen King</author>
+        <publisher>Thorndike Press</publisher>
+        <yop>2006</yop>
+    </book>
+    <book id="6">
+        <name>Cellulaire</name>
+        <Language>French</Language>
+        <isbn>9782253151630</isbn>
+        <author>Stephen King</author>
+        <publisher>Albin Michel</publisher>
+        <yop>2007-10</yop>
+    </book>
+    <book id="7">
+        <name>European House of Cards</name>
+        <Language>English</Language>
+        <isbn>9421246950</isbn>
+        <author>Louise B. Van Tartwijk-Novey</author>
+        <publisher>St. Martin's Press, Palgrave Macmillan, Springer</publisher>
+        <yop>1995</yop>
+    </book>
+    <book id="8">
+        <name>European House of Cards</name>
+        <Language>English</Language>
+        <isbn>9421246950</isbn>
+        <author>Louise B. Van Tartwijk-Novey</author>
+        <publisher>St. Martin's Press, Palgrave Macmillan, Springer</publisher>
+        <yop>1995</yop>
+    </book>
+    <book id="9">
+        <name>European House of Cards</name>
+        <Language>English</Language>
+        <isbn>9421246950</isbn>
+        <author>Louise B. Van Tartwijk-Novey</author>
+        <publisher>St. Martin's Press, Palgrave Macmillan, Springer</publisher>
+        <yop>1995</yop>
+    </book>
+    <book id="10">
+        <name>European House of Cards</name>
+        <Language>English</Language>
+        <isbn>9421246950</isbn>
+        <author>Louise B. Van Tartwijk-Novey</author>
+        <publisher>St. Martin's Press, Palgrave Macmillan, Springer</publisher>
+        <yop>1995</yop>
+    </book>
+    <book id="11">
+        <name>European House of Cards</name>
+        <Language>English</Language>
+        <isbn>9421246950</isbn>
+        <author>Louise B. Van Tartwijk-Novey</author>
+        <publisher>St. Martin's Press, Palgrave Macmillan, Springer</publisher>
+        <yop>1995</yop>
+    </book>
+    <book id="12">
+        <name>European House of Cards</name>
+        <Language>English</Language>
+        <isbn>0333621247</isbn>
+        <author>Louise B. Van Tartwijk-Novey</author>
+        <publisher>St. Martin's Press, Palgrave Macmillan, Springer</publisher>
+        <yop>1995</yop>
+    </book>
+    <book id="13">
+        <name>European House of Cards</name>
+        <Language>English</Language>
+        <isbn>9421246950</isbn>
+        <author>Louise B. Van Tartwijk-Novey</author>
+        <publisher>St. Martin's Press, Palgrave Macmillan, Springer</publisher>
+        <yop>1995</yop>
+    </book>
+    <book id="14">
+        <name>European House of Cards</name>
+        <Language>English</Language>
+        <isbn>9421246950</isbn>
+        <author>Louise B. Van Tartwijk-Novey</author>
+        <publisher>St. Martin's Press, Palgrave Macmillan, Springer</publisher>
+        <yop>1995</yop>
+    </book>
+</Books>

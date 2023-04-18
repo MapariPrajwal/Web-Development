@@ -1,0 +1,14 @@
+body{
+    background:linear-gradient(to top,rgba(0,0,0,0.1)50%,rgba(0,0,0,0.1)50%),url(bodybg.jpeg);
+    color: blanchedalmond;
+    background-position: center;
+    background-size: cover;
+}
+td{
+    padding: 10px;
+	border: 1px solid #ff7200;
+    font-family: 'Segoe UI';
+}
+.EvenRow{
+    background-color: transparent;
+}
